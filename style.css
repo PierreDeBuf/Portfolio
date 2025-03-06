@@ -70,7 +70,6 @@ a:link {
 
 #LandingPage {
   background-image: url("assets/BG.jpg");
-  background-repeat: round;
   height: 960px;
 }
 #LandingPage header {
